@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "phasing-5loc",
+]
+
+[profile.release]
+debug = true

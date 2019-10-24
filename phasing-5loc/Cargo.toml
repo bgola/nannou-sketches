@@ -1,0 +1,8 @@
+[package]
+name = "phasing-5loc"
+version = "0.1.0"
+authors = ["bgola <me@bgo.la>"]
+
+[dependencies]
+nannou = "0.11.1"
+nannou_osc = "0.1.0"
